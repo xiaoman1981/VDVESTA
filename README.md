@@ -132,11 +132,3 @@ Limit Hosting:
 -------------
 ![VDVESTA Limit Hosting CPU-RAM-IO](https://lh4.googleusercontent.com/-Oi4bsdKcKfI/WYs502wI7TI/AAAAAAAABms/9At8G3STbmc3MNEuXe8kInlzFNb53vcWgCLcBGAs/s1600/VDVESTA-Limit-Hosting.png "vdvesta limit hosting screenshot 3")
 
-3/ More Config:
----------------
-HomePage: http://vdvesta.voduy.com
-
-Forum Support: https://link.voduy.com/forum-vdvesta
-```
-Still in beta, use at your own risk! It is provided without any warranty!
-```
