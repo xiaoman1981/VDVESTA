@@ -19,7 +19,7 @@ Install CentOS Server 7 x86_64: http://centos.org/
 -------------
 ```
 yum -y update
-curl -L https://github.com/duy13/VDVESTA/raw/master/vdvesta.sh -o vdvesta.sh
+curl -L https://github.com/xiaoman1981/VDVESTA/raw/master/vdvesta.sh -o vdvesta.sh
 bash vdvesta.sh
  
 ```
